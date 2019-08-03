@@ -13,8 +13,8 @@ This project was created in order to get the latest post from website http://ldp
 ## Getting Started
 
 > - git clone https://github.com/kechankrisna/ldpquote.git
-> - flutter install 
-> - flutter update 
+> - cd ldpquote
+> - flutter pub upgrade
 > - make sure you have installed flutter and dart extension idea on your IDE or otherwise you have to run command below
 > - flutter run ios or flutter run android
 
